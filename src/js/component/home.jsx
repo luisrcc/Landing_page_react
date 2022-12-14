@@ -1,4 +1,5 @@
 import React from "react";
+import Jumbotron from "./Jumbotron";
 
 import Navbar from "./Navbar";
 
@@ -9,9 +10,11 @@ import Navbar from "./Navbar";
 //create your first component
 const Home = () => {
 	return (
-		<div className="navbar">
+		<>
+		<Navbar />
+		<Jumbotron />
+		</>
 
-		</div>
 		
 	);
 };

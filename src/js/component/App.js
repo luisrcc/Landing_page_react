@@ -1,4 +1,4 @@
-import Home from "./home";
+/*import Home from "./home";
 import Navbar from "./Navbar";
 
 
@@ -16,4 +16,4 @@ function App(){
 
 
 
-export default App
+export default App*/
