@@ -17,16 +17,16 @@ const Home = () => {
 			<Jumbotron />
 			<div className='container my-2'>
 				<div className='row'>
-					<div className="col-3">
+					<div className="col-12 col-md-3 col-sm-3">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-12 col-md-3 col-sm-3">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-12 col-md-3 col-sm-3">
 						<Card />
 					</div>
-					<div className="col-3">
+					<div className="col-12 col-md-3 col-sm-3">
 						<Card />
 					</div>
 				</div>
