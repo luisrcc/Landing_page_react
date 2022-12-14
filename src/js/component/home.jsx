@@ -9,10 +9,15 @@ import Navbar from "./Navbar";
 //create your first component
 const Home = () => {
 	return (
-		<div className="navbar navbar-expand-lg bg-light">
+		<div className="navbar">
 
 		</div>
-		/*<div className="text-center">
+		
+	);
+};
+
+export default Home;
+/*<div className="text-center">
 			<h1 className="text-center mt-5">Hello Rigo!</h1>
 			<p>
 				<img src={rigoImage} />
@@ -26,7 +31,3 @@ const Home = () => {
 				love!
 			</p>
 		</div>*/
-	);
-};
-
-export default Home;

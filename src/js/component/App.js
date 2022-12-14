@@ -1,4 +1,4 @@
-/*import Home from "./home";
+import Home from "./home";
 import Navbar from "./Navbar";
 
 
@@ -7,7 +7,7 @@ function App(){
         <div className="App">
             <Navbar />
             <div className="Content">
-                <home />
+                <Home />
 
             </div>
         </div>
@@ -16,4 +16,4 @@ function App(){
 
 
 
-export default App*/
+export default App
